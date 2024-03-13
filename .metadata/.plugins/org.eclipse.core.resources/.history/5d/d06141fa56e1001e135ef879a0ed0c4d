@@ -1,0 +1,14 @@
+package examen;
+
+public class FechaTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new Fecha Object prueba1 = (0,12,2000);
+		new Fecha Object prueba2 = (20,0,2000);
+		new Fecha Object prueba3 = (20,12,0);
+		new Fecha Object prueba4 = (28,2,2000);
+		new Fecha Object prueba5 = (30,12,2000);
+	}
+
+}

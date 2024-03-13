@@ -1,9 +1,5 @@
 package examen;
 
-/**
- * @author DAM102
- * 
- */
 public class Fecha {
 	public static boolean validarFecha(int anio, int mes, int dia) {
 		boolean fechaValida = false;
